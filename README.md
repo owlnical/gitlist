@@ -13,11 +13,16 @@ GitList is an elegant and modern web interface for interacting with multiple git
 * Repository statistics
 
 ## Screenshots
-[![GitList Screenshot](http://dl.dropbox.com/u/62064441/th1.jpg)](http://cloud.github.com/downloads/klaussilveira/gitlist/1.jpg)
-[![GitList Screenshot](http://dl.dropbox.com/u/62064441/th2.jpg)](http://cloud.github.com/downloads/klaussilveira/gitlist/2.jpg)
-[![GitList Screenshot](http://dl.dropbox.com/u/62064441/th3.jpg)](http://cloud.github.com/downloads/klaussilveira/gitlist/3.jpg)
-[![GitList Screenshot](http://dl.dropbox.com/u/62064441/th4.jpg)](http://cloud.github.com/downloads/klaussilveira/gitlist/4.jpg)
-[![GitList Screenshot](http://dl.dropbox.com/u/62064441/th5.jpg)](http://cloud.github.com/downloads/klaussilveira/gitlist/5.jpg)
+
+![GitList Screenshot](https://cloud.github.com/downloads/klaussilveira/gitlist/1.jpg)
+
+![GitList Screenshot](https://cloud.github.com/downloads/klaussilveira/gitlist/2.jpg)
+
+![GitList Screenshot](https://cloud.github.com/downloads/klaussilveira/gitlist/3.jpg)
+
+![GitList Screenshot](https://cloud.github.com/downloads/klaussilveira/gitlist/4.jpg)
+
+![GitList Screenshot](https://cloud.github.com/downloads/klaussilveira/gitlist/5.jpg)
 
 You can also see a live demo [here](http://gitlist-khornberg.rhcloud.com/).
 
